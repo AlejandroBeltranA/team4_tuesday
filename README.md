@@ -5,8 +5,11 @@ You can use the [editor on GitHub](https://github.com/AlejandroBeltranA/team4_tu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+This is the capstone project for Team 4 of FOSS Tuesday's. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mario Mario 
+Angie
+Alejandro
 
 ```markdown
 Syntax highlighted code block
