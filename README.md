@@ -7,9 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 This is the capstone project for Team 4 of FOSS Tuesday's. 
 
-Mario Mario 
-Angie
-Alejandro
+# Mario Mario 
+# Angie
+# Alejandro
 
 ```markdown
 Syntax highlighted code block
