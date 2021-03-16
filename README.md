@@ -24,5 +24,6 @@ More info available at my [personal website](https://www.beltranalejandro.com/)
 ## Amy
 
 ## Logan 
+I am a PhD Candidate in the School of Government and Public Policy interested in the economic impacts associated with climate change and governance of human adaptation. My current research focuses on the effectiveness of hurricane planning and recovery policies. Prior to joining the University of Arizona, I worked worked as a consultant for the Alaska-based firm Northern Economics analyzing policy topics ranging from fisheries to natural gas, demography, and forest resources.
 
 ## Rongbo
