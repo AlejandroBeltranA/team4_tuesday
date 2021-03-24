@@ -13,6 +13,8 @@ This is the capstone project for Team 4 of FOSS Tuesday's.
 
 ## Mario Mario 
 
+I am a second-year Ph.D. student at the School of Government and Public Policy at the University of Arizona. I am intereted on preventing addictions and violence in Mexico and Latin America. I have a background in anthropology and demography, so my research is characterized by a mixed-methods approach. I have worked in the public and private sectors on issues linked to Mexican security. I have also collaborated designing, implementing and evaluating a public health intervention in the Tijuana Police Department (i.e., SHIELD project).
+
 ## Angie
 
 ## Alejandro
